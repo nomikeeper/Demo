@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: a72481cd12a8e514f94ac1501e33a5ca
+timeCreated: 1485760941
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bastien
+    100002: BezierCurve
+    100004: Camera
+    100006: curving-cover
+    100008: Cylinder
+    100010: fall board
+    100012: keyboard
+    100014: keyboard-prop
+    100016: keyboard_MeshPart0
+    100018: keyboard_MeshPart1
+    100020: keyboard_MeshPart2
+    100022: Lamp
+    100024: lid
+    100026: lid-prop
+    100028: muck-rack
+    100030: music-rack-ground
+    100032: music-rack-ground.001
+    100034: pedals
+    100036: //RootNode
+    100038: pillars
+    100040: roller
+    100042: wooden-cover
+    100044: woofers
+    400000: bastien
+    400002: BezierCurve
+    400004: Camera
+    400006: curving-cover
+    400008: Cylinder
+    400010: fall board
+    400012: keyboard
+    400014: keyboard-prop
+    400016: keyboard_MeshPart0
+    400018: keyboard_MeshPart1
+    400020: keyboard_MeshPart2
+    400022: Lamp
+    400024: lid
+    400026: lid-prop
+    400028: muck-rack
+    400030: music-rack-ground
+    400032: music-rack-ground.001
+    400034: pedals
+    400036: //RootNode
+    400038: pillars
+    400040: roller
+    400042: wooden-cover
+    400044: woofers
+    2300000: bastien
+    2300002: BezierCurve
+    2300004: curving-cover
+    2300006: Cylinder
+    2300008: fall board
+    2300010: keyboard-prop
+    2300012: keyboard_MeshPart0
+    2300014: keyboard_MeshPart1
+    2300016: keyboard_MeshPart2
+    2300018: lid
+    2300020: lid-prop
+    2300022: muck-rack
+    2300024: music-rack-ground
+    2300026: music-rack-ground.001
+    2300028: pedals
+    2300030: pillars
+    2300032: roller
+    2300034: wooden-cover
+    2300036: woofers
+    3300000: bastien
+    3300002: BezierCurve
+    3300004: curving-cover
+    3300006: Cylinder
+    3300008: fall board
+    3300010: keyboard-prop
+    3300012: keyboard_MeshPart0
+    3300014: keyboard_MeshPart1
+    3300016: keyboard_MeshPart2
+    3300018: lid
+    3300020: lid-prop
+    3300022: muck-rack
+    3300024: music-rack-ground
+    3300026: music-rack-ground.001
+    3300028: pedals
+    3300030: pillars
+    3300032: roller
+    3300034: wooden-cover
+    3300036: woofers
+    4300000: music-rack-ground.001
+    4300002: roller
+    4300004: bastien
+    4300006: fall board
+    4300008: woofers
+    4300010: lid-prop
+    4300012: pedals
+    4300014: Cylinder
+    4300016: pillars
+    4300018: muck-rack
+    4300020: music-rack-ground
+    4300022: keyboard_MeshPart0
+    4300024: keyboard_MeshPart1
+    4300026: keyboard_MeshPart2
+    4300028: keyboard-prop
+    4300030: wooden-cover
+    4300032: lid
+    4300034: BezierCurve
+    4300036: curving-cover
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
